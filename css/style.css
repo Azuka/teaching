@@ -65,3 +65,26 @@ footer {
 	border-top: 1px solid #ddd;
 	font-size: 0.75em;
 }
+
+#sidebar {
+	float: left;
+	width: 200px;
+}
+
+#content {
+	float: left;
+	width: 480px;
+	margin: 0 20px;
+}
+
+#ads {
+	float:right;
+	width: 200px;
+}
+
+#content h1 {
+	font-size: 1.75em;
+	margin-top: 0;
+	padding-bottom: 8px;
+	border-bottom: 1px solid #eee;
+}
